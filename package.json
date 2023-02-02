@@ -1,0 +1,20 @@
+{
+  "name": "comp2164",
+  "version": "1.0.0",
+  "description": "MY name is Tenzin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warning: No tests created yet.\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lungtent23/comp2164.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lungtent23/comp2164/issues"
+  },
+  "homepage": "https://github.com/lungtent23/comp2164#readme"
+}
