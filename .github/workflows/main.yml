@@ -1,4 +1,4 @@
-# This is a basic workflow to help you get started with Actions
+# This is a basic workflow to help you get started with Actionss
 
 name: CI for COMP2164 Lab Exercise
 
@@ -44,4 +44,3 @@ jobs:
       # Install project dependencies
       - name: Install dependencies
         run: npm install
-	
